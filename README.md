@@ -1,4 +1,3 @@
-# angular
+# Calculadora
 
-#Calculadora
-Projetorealizado em Angular
+Projeto realizado em Angular
